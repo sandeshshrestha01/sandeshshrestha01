@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sandeshshrestha01
+- 👋 Hi, I’m @sandesh shrestha
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
